@@ -1,0 +1,55 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+#question-button {
+    margin: 5px;
+}
+
+#checking-button {
+    margin: 5px;
+}
+
+#option-button {
+    margin: 5px;
+}
+
+.information p {
+    margin: 10px;
+    font-size: 24pt;
+}
+
+.error {
+    font-size: 24pt;
+    color: red;
+}
+
+.question p{
+    color: green;
+}
+
+input{
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
+
+.result{
+    font-size: 24pt;
+    text-align: center;
+    color: green;
+}
+
+
+
+.questions{
+    display:none;
+}
+
+.checking {
+    display: none;
+}
+
+.option{
+    display: none;
+}
